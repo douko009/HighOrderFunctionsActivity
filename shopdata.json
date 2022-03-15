@@ -1,0 +1,56 @@
+[
+    {
+        "item": "Notebook",
+        "uses": "school",
+        "price": 100,
+        "stock": 50
+    },
+    {
+        "item": "Mouse",
+        "uses": "gaming",
+        "price": 500,
+        "stock": 21
+    },
+    {
+        "item": "Guitar",
+        "uses": "instrument",
+        "price": 5000,
+        "stock": 5
+    },
+    {
+        "item": "Pen",
+        "uses": "school",
+        "price": 20,
+        "stock": 30
+    },
+    {
+        "item": "Keyboard",
+        "uses": "gaming",
+        "price": 1000,
+        "stock": 12
+    },
+    {
+        "item": "Ukulele",
+        "uses": "Instrument",
+        "price": 1500,
+        "stock": 8
+    },
+    {
+        "item": "Nintendo Switch",
+        "uses": "gaming",
+        "price": 9000,
+        "stock": 5
+    },
+    {
+        "item": "Programming Book",
+        "uses": "school",
+        "price": 1500,
+        "stock": 15
+    },
+    {
+        "item": "Pencil",
+        "uses": "school",
+        "price": 15,
+        "stock": 41
+    }
+]
